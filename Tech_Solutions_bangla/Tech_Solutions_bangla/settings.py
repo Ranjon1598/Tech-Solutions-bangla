@@ -95,7 +95,7 @@ WSGI_APPLICATION = 'Tech_Solutions_bangla.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'Tech_Solutions_bangla',
+        'NAME': 'satyaranjondev$Tech_Solutions_bangla',
         'HOST': 'localhost',
         'PORT': '3306',
         'USER': 'root',
